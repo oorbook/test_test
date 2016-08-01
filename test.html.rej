@@ -1,0 +1,11 @@
+diff a/test.html b/test.html	(rejected hunks)
+@@ -4,7 +4,7 @@
+ 
+ <?php
+ echo "My first PHP script!";
+-?> 
++?>
+ 
+ </body>
+ </html>
+\ No newline at end of file
